@@ -1,2 +1,2 @@
-# Quint_DESI
-This repository contains part of the code used in arXiv:2504.04226
+# Has DESI detected exponential quintessence?
+The code will be publicly available after the publication of the paper.  
